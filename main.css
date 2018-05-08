@@ -1,14 +1,18 @@
  h1 {
   color: #662A75;
+  font-size: 56px;
 } 
 h2 {
  color: #2A5E75;
+ font-size: 48px;
 }
  h3 {
   color: #75412A;
+  font-size: 32px;
 }
 h4 {
  color: #39752A;
+ font-size: 24px;
 }
 .container {font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 }
