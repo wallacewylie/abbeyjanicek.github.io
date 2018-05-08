@@ -1,5 +1,15 @@
  h1 {
-   font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
   color: #281C56;
 } 
-
+h2 {
+ color: #561C2D;
+}
+ h3 {
+  color: #1C5645;
+}
+h4 {
+ color: #4A561C;
+}
+.container {
+font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
