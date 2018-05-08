@@ -15,4 +15,6 @@ h4 {
  font-size: 16px;
 }
 .container {font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+ background-image:
+  url("abbeyjanicek.github.io/resume-background-pic.jpg");
 }
