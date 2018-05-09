@@ -24,7 +24,7 @@ font-weight: 300;
  position: absolute;
   z-index: -1;   
   width: 100%;
-  height: 310%;
+  height: 300%;
   background-image: url("abbeyjanicek.github.io/resume-background-pic.jpg");
   background-size: cover;
   opacity: 0.2;
@@ -46,4 +46,7 @@ font-weight: 300;
 }
 nav li {
   display: inline;
+}
+.email {
+ float: right;
 }
