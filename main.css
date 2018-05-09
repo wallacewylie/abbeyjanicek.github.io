@@ -20,6 +20,6 @@ h4 {
  background-size: cover;
 }
  background-image {
-    opacity: 0.5;
-    filter: alpha(opacity=50);
+    opacity: 0.1;
+    filter: alpha(opacity=10);
 }
