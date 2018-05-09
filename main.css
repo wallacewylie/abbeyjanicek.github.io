@@ -18,8 +18,6 @@ h4 {
  background-image:
   url("abbeyjanicek.github.io/resume-background-pic.jpg");
  background-size: cover;
+ opacity: 0.1;
 }
- background-image {
-    opacity: 0.1;
-    filter: alpha(opacity=10);
-}
+ 
