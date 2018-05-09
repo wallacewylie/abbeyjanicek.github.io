@@ -16,7 +16,7 @@ h4 {
 }
 .container {font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 }
- .background-image {
+.hero-unit__background-image {
   background-image: url("abbeyjanicek.github.io/resume-background-pic.jpg");
  background-size: cover;
   opacity: 0.2;
