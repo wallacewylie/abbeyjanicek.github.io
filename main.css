@@ -48,8 +48,8 @@ nav li {
   display: inline;
 }
 .email {
- float: right;
+ float: center;
 }
 .linkedin {
- float: left;
+ float: center;
 }
