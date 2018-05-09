@@ -1,18 +1,22 @@
  h1 {
   color: #662A75;
   font-size: 56px;
+  font-weight: 300;
 } 
 h2 {
  color: #2A5E75;
  font-size: 36px;
+ font-weight: 300;
 }
  h3 {
   color: #75412A;
   font-size: 24px;
+  font-weight: 300;
 }
 h4 {
  color: #39752A;
  font-size: 16px;
+font-weight: 300;
 }
 .container {font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 }
@@ -35,9 +39,8 @@ h4 {
 }
 .name {
   text-align: center;
-  font-weight: 200;
+  font-weight: 300;
 }
 .address {
   text-align: center;
-  padding: 30px;
 }
