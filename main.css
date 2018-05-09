@@ -45,7 +45,5 @@ font-weight: 300;
   text-align: center;
 }
 nav li {
-  margin: 0;
-  padding: 0 10px;
   display: inline;
 }
