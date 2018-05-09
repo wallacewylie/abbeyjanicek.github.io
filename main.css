@@ -33,4 +33,11 @@ h4 {
   margin: 20px;
   border: 5px solid #FFF;
 }
-
+.name {
+  text-align: center;
+  font-weight: 100;
+}
+.address {
+  border: 1px solid #000;
+  text-align: center;
+  padding: 30px;
