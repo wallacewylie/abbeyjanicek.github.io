@@ -48,11 +48,9 @@ font-weight: 300;
  text-align: left;
 }
 .linkedin {
- text-align: center;
+ text-align: left;
 }
 .resume-pic {
     text-align: right;
 }
-.main {
-    display: inline;
-}
+
