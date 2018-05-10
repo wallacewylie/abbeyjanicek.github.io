@@ -44,7 +44,7 @@ font-weight: 300;
 .address {
   text-align: center;
 }
-nav {
+nav li {
   display: inline;
 }
 .email {
