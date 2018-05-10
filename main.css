@@ -62,3 +62,6 @@ li a {
 .resume-pic {
  text-align: right;
 }
+.main {
+ display: inline;
+}
