@@ -44,8 +44,14 @@ font-weight: 300;
 .address {
   text-align: center;
 }
-nav li {
-  display: inline;
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li a {
+    display: block;
+    width: 60px;
 }
 .email {
  text-align: center;
