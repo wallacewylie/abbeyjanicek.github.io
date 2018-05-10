@@ -38,14 +38,14 @@ font-weight: 300;
   border: 5px solid #FFF;
 }
 .name {
-  text-align: center;
+  text-align: left;
   font-weight: 300;
 }
 .address {
-  text-align: center;
+  text-align: left;
 }
 .email {
- text-align: center;
+ text-align: left;
 }
 .linkedin {
  text-align: center;
