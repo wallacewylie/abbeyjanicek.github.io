@@ -38,18 +38,23 @@ font-weight: 300;
   border: 5px solid #FFF;
 }
 .name {
-  text-align: left;
+ margin: 20px 50px 0px; 
+ text-align: left;
   font-weight: 300;
 }
 .address {
+ margin: 0px 50px 0px;
   text-align: left;
 }
 .email {
+ margin: 0px 50px 0px;
  text-align: left;
 }
 .linkedin {
+ margin: 0px 50px 0px;
  text-align: left;
 }
 .resume-pic {
-    float: right;
+ margin: 20px 50px 20px;   
+ float: right;
 }
